@@ -1,4 +1,4 @@
-Welcome to thoughts.
+# welcome to thoughts.
 
 ## Features
 
