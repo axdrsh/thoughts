@@ -1,1 +1,1 @@
-![preview](./pewview.jpg)
+![preview](./preview.jpg)
